@@ -1,3 +1,4 @@
+[About project.docx](https://github.com/vishnuvardhankunsoth/Store_Transaction_Data_Insights/files/14276204/About.project.docx)
 # Transaction_Insights-Revealing_Customer_Behavior_via_Data_Analysis
 Jupyter Notebook
 
