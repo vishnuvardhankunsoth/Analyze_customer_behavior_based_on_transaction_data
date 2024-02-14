@@ -1,6 +1,6 @@
 # Transaction_Insights-Revealing_Customer_Behavior_via_Data_Analysis
 
-PROJECT DETAILS:
+Project Details:
 
 Coders Cave Objective: Analyze customer behaviour based on transaction data
 Develop a data analysis project that focuses on understanding and analyzing customer behaviour based on transactional data. The goal is to perform Exploratory Data Analysis (EDA) to derive valuable insights into customer preferences, purchasing patterns, and overall behaviour.
