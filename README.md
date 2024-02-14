@@ -5,4 +5,7 @@ Jupyter Notebook
 
 [Hackathon_Mapping_File.csv](https://github.com/vishnuvardhankunsoth/Store_Transaction_Data_Insights/files/14276116/Hackathon_Mapping_File.csv)
 
+[Data set.zip](https://github.com/vishnuvardhankunsoth/Store_Transaction_Data_Insights/files/14276142/Data.set.zip)
+
+
 
