@@ -11,6 +11,8 @@ Nielsen Holdings plc (NYSE: NLSN) is a global measurement and data analytics com
 A transaction involving a single packet of chips or a single piece of candy may not be scanned and recorded to spare customers the inconvenience or during rush hours when the store is crowded with customers.
 Thus, the data received from such stores is often incomplete and lacks complete information on all transactions completed within a day. Additionally, apart from incomplete transaction data in a day, it is observed that certain stores do not share data for all active days. Stores share data ranging from 2 to 28 days in a month. While it is possible to impute/extrapolate data for 2 days of a month using 28 days of actual historical data, the vice versa is not recommended. Nielsen encourages you to create a model that can help impute/extrapolate data to fill in the missing data gaps in the store-level POS data currently received.
 
+In this project, I performed Exploratory Data Analysis (EDA) to derive valuable insights into customer preferences, purchasing patterns, and overall behaviour. I used Jupyter Notebook for importing Python libraries, Importing CSV files, Performing EDA (Exploratory Data Analysis), Exploring individual columns, Creating Visualizations, Deriving Insights and communicating the results.
+
 ## Data set:
 
 The dataset contains store-level data by brands and categories for select stores. The file contains brand-level data for 10 stores for the last 3 months. This can be referred to as the ideal data.
@@ -48,7 +50,6 @@ Link: [Project Documentation.pdf](https://github.com/vishnuvardhankunsoth/Analyz
 13.	The eighth store generated the highest sales revenue.
 14.	Plotted graphs by the top 5 categories sold from each store.
 15.	Plotted graphs by the top 5 categories sold by each month.
-
 
 These insights can help the online retail store improve their customer segmentation, personalization, and retention strategies, and ultimately increase their revenue and profitability.
 
